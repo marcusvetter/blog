@@ -1,9 +1,8 @@
 {
   "name": "blog",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Marcus Vetter",
-  "description": "",
-  "main": "webpack.config.js",
+  "description": "Blog by Marcus Vetter",
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",

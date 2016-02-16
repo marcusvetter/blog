@@ -2,4 +2,4 @@
 
 - npm install
 - npm run dev
-- Browse to localhost:8080/src
+- Browse to localhost:8080
