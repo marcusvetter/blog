@@ -13,7 +13,8 @@ module.exports = {
             { test: /\.ts$/, loader: 'ts' },
             { test: /\.jade$/, loader: 'raw!jade-html' },
             { test: /\.scss$/, loader: 'raw!sass' },
-            { test: /\.css$/, loader: 'style!css' }
+            { test: /\.css$/, loader: 'style!css' },
+            { test: /\.png$/, loader: "url-loader?mimetype=image/png" }
         ]
     }
 };

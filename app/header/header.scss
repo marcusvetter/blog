@@ -1,3 +1,16 @@
-h1 {
-  color: #006600;
+.header {
+  height: 40px;
+  background-color: #F5F5F5;
+  border-bottom: 1px solid #0275d8;
+  padding: 10px;
+
+  a {
+    margin-left: 20px;
+  }
+
+  .headline {
+    color: #0275d8;
+    text-decoration-style: solid;
+  }
+
 }
