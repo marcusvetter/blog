@@ -5,6 +5,7 @@
 - Angular2
 - Jade-Templating
 - SASS-Styling
+- Bootstrap 4 (alpha)
 
 # Setup
 
@@ -15,7 +16,7 @@
 
 # TODO
 
-- Add Bootstrap4
+- Add TsLint
 - Add Unit Tests
     - Jasmine
     - Karma

@@ -12,7 +12,8 @@ module.exports = {
             { test: /\.html$/, loader: 'raw' },
             { test: /\.ts$/, loader: 'ts' },
             { test: /\.jade$/, loader: 'raw!jade-html' },
-            { test: /\.scss$/, loader: 'raw!sass' }
+            { test: /\.scss$/, loader: 'raw!sass' },
+            { test: /\.css$/, loader: 'style!css' }
         ]
     }
 };

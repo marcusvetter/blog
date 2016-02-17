@@ -18,6 +18,7 @@
   "homepage": "https://github.com/marcusvetter/blog#readme",
   "dependencies": {
     "angular2": "^2.0.0-beta.6",
+    "bootstrap": "twbs/bootstrap#v4-dev",
     "es6-promise": "^3.1.2",
     "es6-shim": "^0.33.13",
     "reflect-metadata": "0.1.2",
@@ -25,11 +26,13 @@
     "zone.js": "^0.5.14"
   },
   "devDependencies": {
+    "css-loader": "^0.23.1",
     "jade": "^1.11.0",
     "jade-html-loader": "0.0.3",
     "node-sass": "^3.4.2",
     "raw-loader": "^0.5.1",
     "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
     "ts-loader": "^0.8.1",
     "typescript": "^1.7.5",
     "typings": "^0.6.8",
