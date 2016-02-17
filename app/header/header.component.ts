@@ -1,10 +1,10 @@
 import {Component} from 'angular2/core';
 
+const TEMPLATE = require('./header.html');
+
 @Component({
     selector: 'mv-header',
-    template: `
-        <h1>My Header</h1>
-    `
+    template: `${TEMPLATE}`
 })
 export class HeaderComponent {
 }
