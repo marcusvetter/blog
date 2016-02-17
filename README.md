@@ -1,13 +1,19 @@
+# What's included?
+
+- Webpack
+- TypeScript
+- Angular2
+- Jade-Templating
+
 # Setup
 
 - npm install -g webpack webpack-dev-server
 - npm install
-- npm run dev
+- npm start
 - Browse to localhost:8080
 
 # TODO
 
-- Add Jade
 - Add SASS
 - Add Bootstrap4
 - Add Unit Tests
