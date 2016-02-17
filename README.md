@@ -4,6 +4,7 @@
 - TypeScript
 - Angular2
 - Jade-Templating
+- SASS-Styling
 
 # Setup
 
@@ -14,7 +15,6 @@
 
 # TODO
 
-- Add SASS
 - Add Bootstrap4
 - Add Unit Tests
     - Jasmine
